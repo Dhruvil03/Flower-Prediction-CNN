@@ -57,10 +57,8 @@ scikit-learn>=1.1.0
 pandas>=1.4.0
 pillow>=9.0.0
 ```
-<h3>Trained model link</h3>
-https://drive.google.com/file/d/16jebQn4TCy_ov_FLzMXeii6FMiP5ipLl/view?usp=sharing
-<h3>Flowers Training and Validation data link</h3>
-https://drive.google.com/file/d/1opXD0iREqT-ZbwObYUeWJf5zrH7aufcs/view?usp=sharing
+- **Trained model link:** https://drive.google.com/file/d/16jebQn4TCy_ov_FLzMXeii6FMiP5ipLl/view?usp=sharing
+- **Flowers Training and Validation data link:** https://drive.google.com/file/d/1opXD0iREqT-ZbwObYUeWJf5zrH7aufcs/view?usp=sharing
 
 ## 🚀 Installation & Usage
 
